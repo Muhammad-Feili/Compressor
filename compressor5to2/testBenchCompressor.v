@@ -1,0 +1,82 @@
+`timescale 1ns/1ns
+module tbComp5to1();
+  
+  reg x1,x2,x3,x4,x5,Cin1,Cin2;
+  wire Sum,Cout1,Cout2,Carry;
+  
+  compressor5to1  func(x1,x2,x3,x4,x5,Cin1,Cin2,Sum,Carry,Cout1,Cout2);
+  
+  initial
+  begin
+    {x2,x3,x4,x5,Cin1,Cin2}=6'b000000;
+    x1=1'b1;
+    #1
+    x2=~x2;
+    #1
+    x3=~x3;
+    #1
+    x4=~x4;
+    #1
+    x5=~x5;
+    #1
+    Cin1=~Cin1;
+    x1=~x1;
+    #1
+    Cin2=~Cin2;
+    x2=~x2;
+    //step 1
+    #1
+    x3=~x3;
+    #1
+    x4=~x4;
+    #1
+    x5=~x5;
+    #1
+    Cin1=~Cin1;
+    x1=~x1;
+    #1
+    Cin2=~Cin2;
+    x2=~x2;
+    //step 2
+    #1
+    x3=~x3;
+    #1
+    x4=~x4;
+    #1
+    x5=~x5;
+    #1
+    Cin1=~Cin1;
+    x1=~x1;
+    #1
+    Cin2=~Cin2;
+    x2=~x2;
+    //step 3
+    #1
+    x3=~x3;
+    #1
+    x4=~x4;
+    #1
+    x5=~x5;
+    #1
+    Cin1=~Cin1;
+    x1=~x1;
+    #1
+    Cin2=~Cin2;
+    x2=~x2;
+    //step 4
+    #1
+    x3=~x3;
+    #1
+    x4=~x4;
+    #1
+    x5=~x5;
+    #1
+    Cin1=~Cin1;
+    x1=~x1;
+    #1
+    Cin2=~Cin2;
+    x2=~x2;
+  end
+endmodule
+    
+    

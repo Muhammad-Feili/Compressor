@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mohammad feili\Documents\Modelsim\Projects
+vcompressor4to2
+Z1 !s100 7VfnD<z:G0be`zOkj8eDg3
+Z2 IH^]I7z@h]RD3m=GZ63G;K1
+Z3 VFlK@m3gN>h?YjRJT5<1S41
+Z4 dC:\Users\mohammad feili\Documents\Modelsim\Projects\Compressor
+Z5 w1548842163
+Z6 8C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/4_2 compressor.v
+Z7 FC:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/4_2 compressor.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/4_2 compressor.v|
+Z10 o-work work -O0
+Z11 !s108 1548853973.407000
+Z12 !s107 C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/4_2 compressor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2to1
+Z13 !s100 59BCBzQEmJZf>?d8CmS7j3
+Z14 IISK:Qnk24ZKlc0VHJ85hi2
+Z15 V9?STJc>kV?dS3Q`Zd;7j13
+R4
+Z16 w1548842167
+Z17 8C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/2_1 multiplexer.v
+Z18 FC:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/2_1 multiplexer.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/2_1 multiplexer.v|
+R10
+!i10b 1
+!s85 0
+Z20 !s108 1548853973.776000
+Z21 !s107 C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/2_1 multiplexer.v|
+!s101 -O0
+vtbCompressor
+!i10b 1
+Z22 !s100 35GdI:5L=hV;:[=]d<TIT2
+Z23 I]b0b04nO5=g76Ugf[bl0S0
+Z24 VDF[3Xj]f6J>K94Sb_^oX?1
+R4
+Z25 w1548843114
+Z26 8C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/testbenchComp.v
+Z27 FC:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/testbenchComp.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1548853974.161000
+!s107 C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/testbenchComp.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/testbenchComp.v|
+!s101 -O0
+R10
+Z29 ntb@compressor

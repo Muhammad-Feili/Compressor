@@ -1,0 +1,15 @@
+{C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/compressor5to2.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/compressor5to2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module compressor5to1
+
+Top level modules:
+	compressor5to1
+
+} {} {}} {C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/testBenchCompressor.v} {1 {vlog -work work {C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/testBenchCompressor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tbComp5to1
+
+Top level modules:
+	tbComp5to1
+
+} {} {}}

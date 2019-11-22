@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mohammad feili\Documents\Modelsim\Projects\Compressor
+vcompressor5to1
+Z1 !s100 L]XgCLW4:GABcL@eNB8Lk3
+Z2 IG@CfIXX:4_4kCN8F24MjN2
+Z3 VglBfYM6XOYk=]hU7G[`Ye0
+Z4 dC:\Users\mohammad feili\Documents\Modelsim\Projects\Compressor\compressor5to2
+Z5 w1548853774
+Z6 8C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/compressor5to2.v
+Z7 FC:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/compressor5to2.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/compressor5to2.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1548853941.706000
+Z12 !s107 C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/compressor5to2.v|
+!s101 -O0
+vmux2to1
+Z13 !s100 Y[JG5=;c0`dlhM?4nIPjM1
+Z14 IQ8XRY0jocM`TCeoeGY]SK3
+Z15 V9?STJc>kV?dS3Q`Zd;7j13
+R4
+Z16 w1548844342
+Z17 8C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/multiplexer2to1.v
+Z18 FC:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/multiplexer2to1.v
+L0 2
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/multiplexer2to1.v|
+R10
+Z20 !s108 1548853778.886000
+Z21 !s107 C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/multiplexer2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtbComp5to1
+!i10b 1
+Z22 !s100 fSYdZe?KhKFlh2AR`Zo^81
+Z23 I;0anQ<Ne;53Z>4[R0OA;c0
+Z24 Vk[BFo=6=ZY`^R<oClM36Y1
+R4
+Z25 w1548852448
+Z26 8C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/testBenchCompressor.v
+Z27 FC:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/testBenchCompressor.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1548853941.940000
+!s107 C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/testBenchCompressor.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/mohammad feili/Documents/Modelsim/Projects/Compressor/compressor5to2/testBenchCompressor.v|
+!s101 -O0
+R10
+Z29 ntb@comp5to1
